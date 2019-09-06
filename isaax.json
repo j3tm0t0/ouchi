@@ -1,1 +1,1 @@
-{"name": "ouchi","version": "","description": "","author": "","license": "","language": "","scripts": {"start": "start.sh"}}
+{"name": "ouchi","version": "","description": "","author": "","license": "","language": "","scripts": {"start": "./start.sh"}}
